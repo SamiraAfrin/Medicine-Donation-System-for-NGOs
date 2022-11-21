@@ -1,2 +1,2 @@
 # Medicine Donation System for NGOs
-A website built using Django to easily donate medicine to underprivileged people through NGOs
+A website built using Django to easily donate medicine to underprivileged people through NGOs.Users have a list they can edit and manage their donatable medicines in. NGOs also have a list of medicines they want for the needy people that they can manage.It matches the NGOs with the donors so that there is a smooth interaction between both parties. NGOs can prioritize the medicines they need so that they can collect them on an urgent basisand users can search based on priorities.
